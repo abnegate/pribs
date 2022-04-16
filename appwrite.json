@@ -1,0 +1,17 @@
+{
+    "projectId": "6259383fb02ad4a9192e",
+    "projectName": "Pribs",
+    "functions": [
+        {
+            "$id": "625938ed119739cb7788",
+            "name": "create-block-wallet",
+            "runtime": "node-16.0",
+            "path": "functions/create-block-wallet",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
